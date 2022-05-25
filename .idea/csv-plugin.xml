@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CsvFileAttributes">
+    <option name="attributeMap">
+      <map>
+        <entry key="\source\annual-enterprise-survey-financial-year-provisional_2022_05_21.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\target\survey_data_2\date=2022_05_21\part-00003-4659eab2-93de-423c-a2a8-f0061831c80f.c000.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\target\survey_data_2\date=2022_05_21\part-00003-6be8b5fa-6841-4f70-a840-4bb382a8a6e3.c000.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\target\survey_data_2\part-00000-0a10c88a-7424-4176-9ebc-5a48d4bb21f2-c000.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\target\survey_data_2\part-00000-2336d0e6-f8f9-4ac8-933a-119c1d4fbdd2-c000.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\target\survey_data_2\part-00000-2514a5ad-6fab-411c-9929-fe7e8befb610-c000.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\target\survey_data_2\part-00000-b3417eb2-a2bb-4ed6-9803-34f7074aa1e9-c000.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\target\survey_data_2\part-00003-0a10c88a-7424-4176-9ebc-5a48d4bb21f2-c000.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\target\survey_data_2\part-00003-2336d0e6-f8f9-4ac8-933a-119c1d4fbdd2-c000.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\target\survey_data_2\part-00003-2514a5ad-6fab-411c-9929-fe7e8befb610-c000.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\target\survey_data_2\part-00003-b3417eb2-a2bb-4ed6-9803-34f7074aa1e9-c000.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\target\survey_data_2\part-00003-f24d5d98-4e6a-4bca-8030-447caf5e686f-c000.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\target\survey_target_data\part-00000-7d594ae0-8d1b-4e50-bb2b-1c7f859392a1-c000.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\target\survey_target_data\part-00000-bdbd0eca-58a6-43a9-92f1-7158e181c244-c000.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\target\survey_target_data\part-00000-be75dc31-9102-4e37-a717-ba5ec5eebdf9-c000.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

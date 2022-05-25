@@ -1,0 +1,253 @@
+Year,Industry_aggregation_NZSIOC,Industry_code_NZSIOC,Industry_name_NZSIOC,Units,Variable_code,Variable_name,Variable_category,Value,Industry_code_ANZSIC06
+2020,Level 4,AA141,"Poultry, Deer and Other Livestock Farming",Dollars (millions),H04,"Sales, government funding, grants and subsidies",Financial performance,"2,159","ANZSIC06 groups A017, A018, and A019"
+2020,Level 4,AA141,"Poultry, Deer and Other Livestock Farming",Dollars (millions),H05,"Interest, dividends and donations",Financial performance,23,"ANZSIC06 groups A017, A018, and A019"
+2020,Level 4,AA141,"Poultry, Deer and Other Livestock Farming",Dollars (millions),H07,Non-operating income,Financial performance,63,"ANZSIC06 groups A017, A018, and A019"
+2020,Level 4,AA141,"Poultry, Deer and Other Livestock Farming",Dollars (millions),H08,Total expenditure,Financial performance,"2,134","ANZSIC06 groups A017, A018, and A019"
+2020,Level 4,AA141,"Poultry, Deer and Other Livestock Farming",Dollars (millions),H09,Interest and donations,Financial performance,109,"ANZSIC06 groups A017, A018, and A019"
+2020,Level 4,AA141,"Poultry, Deer and Other Livestock Farming",Dollars (millions),H10,Indirect taxes,Financial performance,16,"ANZSIC06 groups A017, A018, and A019"
+2020,Level 4,AA141,"Poultry, Deer and Other Livestock Farming",Dollars (millions),H11,Depreciation,Financial performance,129,"ANZSIC06 groups A017, A018, and A019"
+2020,Level 4,AA141,"Poultry, Deer and Other Livestock Farming",Dollars (millions),H12,Salaries and wages paid,Financial performance,310,"ANZSIC06 groups A017, A018, and A019"
+2020,Level 4,AA141,"Poultry, Deer and Other Livestock Farming",Dollars (millions),H13,Redundancy and severance,Financial performance,0,"ANZSIC06 groups A017, A018, and A019"
+2020,Level 4,AA141,"Poultry, Deer and Other Livestock Farming",Dollars (millions),H19,Purchases and other operating expenses,Financial performance,"1,561","ANZSIC06 groups A017, A018, and A019"
+2020,Level 4,AA141,"Poultry, Deer and Other Livestock Farming",Dollars (millions),H20,Non-operating expenses,Financial performance,9,"ANZSIC06 groups A017, A018, and A019"
+2020,Level 4,AA141,"Poultry, Deer and Other Livestock Farming",Dollars (millions),H21,Opening stocks,Financial performance,698,"ANZSIC06 groups A017, A018, and A019"
+2020,Level 4,AA141,"Poultry, Deer and Other Livestock Farming",Dollars (millions),H22,Closing stocks,Financial performance,737,"ANZSIC06 groups A017, A018, and A019"
+2020,Level 4,AA141,"Poultry, Deer and Other Livestock Farming",Dollars (millions),H23,Surplus before income tax,Financial performance,150,"ANZSIC06 groups A017, A018, and A019"
+2020,Level 4,AA141,"Poultry, Deer and Other Livestock Farming",Dollars (millions),H24,Total assets,Financial position,"7,347","ANZSIC06 groups A017, A018, and A019"
+2020,Level 4,AA141,"Poultry, Deer and Other Livestock Farming",Dollars (millions),H25,Current assets,Financial position,"1,931","ANZSIC06 groups A017, A018, and A019"
+2020,Level 4,AA141,"Poultry, Deer and Other Livestock Farming",Dollars (millions),H26,Fixed tangible assets,Financial position,"4,278","ANZSIC06 groups A017, A018, and A019"
+2020,Level 4,AA141,"Poultry, Deer and Other Livestock Farming",Dollars (millions),H29,Other assets,Financial position,"1,138","ANZSIC06 groups A017, A018, and A019"
+2020,Level 4,AA141,"Poultry, Deer and Other Livestock Farming",Dollars (millions),H30,Total equity and liabilities,Financial position,"7,347","ANZSIC06 groups A017, A018, and A019"
+2020,Level 4,AA141,"Poultry, Deer and Other Livestock Farming",Dollars (millions),H31,Shareholders funds or owners equity,Financial position,"2,912","ANZSIC06 groups A017, A018, and A019"
+2020,Level 4,AA141,"Poultry, Deer and Other Livestock Farming",Dollars (millions),H32,Current liabilities,Financial position,"1,884","ANZSIC06 groups A017, A018, and A019"
+2020,Level 4,AA141,"Poultry, Deer and Other Livestock Farming",Dollars (millions),H33,Other liabilities,Financial position,"2,551","ANZSIC06 groups A017, A018, and A019"
+2020,Level 4,AA141,"Poultry, Deer and Other Livestock Farming",Dollars,H34,Total income per employee count,Financial ratios,"3,54,700","ANZSIC06 groups A017, A018, and A019"
+2020,Level 4,AA141,"Poultry, Deer and Other Livestock Farming",Dollars,H35,Surplus per employee count,Financial ratios,"23,700","ANZSIC06 groups A017, A018, and A019"
+2020,Level 4,AA141,"Poultry, Deer and Other Livestock Farming",Percentage,H36,Current ratio,Financial ratios,102,"ANZSIC06 groups A017, A018, and A019"
+2020,Level 4,AA141,"Poultry, Deer and Other Livestock Farming",Percentage,H37,Quick ratio,Financial ratios,63,"ANZSIC06 groups A017, A018, and A019"
+2020,Level 4,AA141,"Poultry, Deer and Other Livestock Farming",Percentage,H39,Return on equity,Financial ratios,5,"ANZSIC06 groups A017, A018, and A019"
+2020,Level 4,AA141,"Poultry, Deer and Other Livestock Farming",Percentage,H40,Return on total assets,Financial ratios,2,"ANZSIC06 groups A017, A018, and A019"
+2020,Level 4,AA141,"Poultry, Deer and Other Livestock Farming",Percentage,H41,Liabilities structure,Financial ratios,40,"ANZSIC06 groups A017, A018, and A019"
+2020,Level 3,AA14,"Poultry, Deer and Other Livestock Farming",Dollars (millions),H01,Total income,Financial performance,"2,245","ANZSIC06 groups A017, A018, and A019"
+2020,Level 3,AA14,"Poultry, Deer and Other Livestock Farming",Dollars (millions),H04,"Sales, government funding, grants and subsidies",Financial performance,"2,159","ANZSIC06 groups A017, A018, and A019"
+2020,Level 3,AA14,"Poultry, Deer and Other Livestock Farming",Dollars (millions),H05,"Interest, dividends and donations",Financial performance,23,"ANZSIC06 groups A017, A018, and A019"
+2020,Level 3,AA14,"Poultry, Deer and Other Livestock Farming",Dollars (millions),H07,Non-operating income,Financial performance,63,"ANZSIC06 groups A017, A018, and A019"
+2020,Level 3,AA14,"Poultry, Deer and Other Livestock Farming",Dollars (millions),H08,Total expenditure,Financial performance,"2,134","ANZSIC06 groups A017, A018, and A019"
+2020,Level 3,AA14,"Poultry, Deer and Other Livestock Farming",Dollars (millions),H09,Interest and donations,Financial performance,109,"ANZSIC06 groups A017, A018, and A019"
+2020,Level 3,AA14,"Poultry, Deer and Other Livestock Farming",Dollars (millions),H10,Indirect taxes,Financial performance,16,"ANZSIC06 groups A017, A018, and A019"
+2020,Level 3,AA14,"Poultry, Deer and Other Livestock Farming",Dollars (millions),H11,Depreciation,Financial performance,129,"ANZSIC06 groups A017, A018, and A019"
+2020,Level 3,AA14,"Poultry, Deer and Other Livestock Farming",Dollars (millions),H12,Salaries and wages paid,Financial performance,310,"ANZSIC06 groups A017, A018, and A019"
+2020,Level 3,AA14,"Poultry, Deer and Other Livestock Farming",Dollars (millions),H13,Redundancy and severance,Financial performance,0,"ANZSIC06 groups A017, A018, and A019"
+2020,Level 3,AA14,"Poultry, Deer and Other Livestock Farming",Dollars (millions),H19,Purchases and other operating expenses,Financial performance,"1,561","ANZSIC06 groups A017, A018, and A019"
+2020,Level 3,AA14,"Poultry, Deer and Other Livestock Farming",Dollars (millions),H20,Non-operating expenses,Financial performance,9,"ANZSIC06 groups A017, A018, and A019"
+2020,Level 3,AA14,"Poultry, Deer and Other Livestock Farming",Dollars (millions),H21,Opening stocks,Financial performance,698,"ANZSIC06 groups A017, A018, and A019"
+2020,Level 3,AA14,"Poultry, Deer and Other Livestock Farming",Dollars (millions),H22,Closing stocks,Financial performance,737,"ANZSIC06 groups A017, A018, and A019"
+2020,Level 3,AA14,"Poultry, Deer and Other Livestock Farming",Dollars (millions),H23,Surplus before income tax,Financial performance,150,"ANZSIC06 groups A017, A018, and A019"
+2020,Level 3,AA14,"Poultry, Deer and Other Livestock Farming",Dollars (millions),H24,Total assets,Financial position,"7,347","ANZSIC06 groups A017, A018, and A019"
+2020,Level 3,AA14,"Poultry, Deer and Other Livestock Farming",Dollars (millions),H25,Current assets,Financial position,"1,931","ANZSIC06 groups A017, A018, and A019"
+2020,Level 3,AA14,"Poultry, Deer and Other Livestock Farming",Dollars (millions),H26,Fixed tangible assets,Financial position,"4,278","ANZSIC06 groups A017, A018, and A019"
+2020,Level 3,AA14,"Poultry, Deer and Other Livestock Farming",Dollars (millions),H29,Other assets,Financial position,"1,138","ANZSIC06 groups A017, A018, and A019"
+2020,Level 3,AA14,"Poultry, Deer and Other Livestock Farming",Dollars (millions),H30,Total equity and liabilities,Financial position,"7,347","ANZSIC06 groups A017, A018, and A019"
+2020,Level 3,AA14,"Poultry, Deer and Other Livestock Farming",Dollars (millions),H31,Shareholders funds or owners equity,Financial position,"2,912","ANZSIC06 groups A017, A018, and A019"
+2020,Level 3,AA14,"Poultry, Deer and Other Livestock Farming",Dollars (millions),H32,Current liabilities,Financial position,"1,884","ANZSIC06 groups A017, A018, and A019"
+2020,Level 3,AA14,"Poultry, Deer and Other Livestock Farming",Dollars (millions),H33,Other liabilities,Financial position,"2,551","ANZSIC06 groups A017, A018, and A019"
+2020,Level 3,AA14,"Poultry, Deer and Other Livestock Farming",Dollars,H34,Total income per employee count,Financial ratios,"3,54,700","ANZSIC06 groups A017, A018, and A019"
+2020,Level 3,AA14,"Poultry, Deer and Other Livestock Farming",Dollars,H35,Surplus per employee count,Financial ratios,"23,700","ANZSIC06 groups A017, A018, and A019"
+2020,Level 3,AA14,"Poultry, Deer and Other Livestock Farming",Percentage,H36,Current ratio,Financial ratios,102,"ANZSIC06 groups A017, A018, and A019"
+2020,Level 3,AA14,"Poultry, Deer and Other Livestock Farming",Percentage,H37,Quick ratio,Financial ratios,63,"ANZSIC06 groups A017, A018, and A019"
+2020,Level 3,AA14,"Poultry, Deer and Other Livestock Farming",Percentage,H39,Return on equity,Financial ratios,5,"ANZSIC06 groups A017, A018, and A019"
+2020,Level 3,AA14,"Poultry, Deer and Other Livestock Farming",Percentage,H40,Return on total assets,Financial ratios,2,"ANZSIC06 groups A017, A018, and A019"
+2020,Level 3,AA14,"Poultry, Deer and Other Livestock Farming",Percentage,H41,Liabilities structure,Financial ratios,40,"ANZSIC06 groups A017, A018, and A019"
+2020,Level 4,AA211,Forestry and Logging,Dollars (millions),H01,Total income,Financial performance,"6,379",ANZSIC06 group A030
+2020,Level 4,AA211,Forestry and Logging,Dollars (millions),H04,Sales of goods and services,Financial performance,"5,288",ANZSIC06 group A030
+2020,Level 4,AA211,Forestry and Logging,Dollars (millions),H05,"Interest, dividends and donations",Financial performance,40,ANZSIC06 group A030
+2020,Level 4,AA211,Forestry and Logging,Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,13,ANZSIC06 group A030
+2020,Level 4,AA211,Forestry and Logging,Dollars (millions),H07,Non-operating income,Financial performance,"1,038",ANZSIC06 group A030
+2020,Level 4,AA211,Forestry and Logging,Dollars (millions),H08,Total expenditure,Financial performance,"4,733",ANZSIC06 group A030
+2020,Level 4,AA211,Forestry and Logging,Dollars (millions),H09,Interest and donations,Financial performance,210,ANZSIC06 group A030
+2020,Level 4,AA211,Forestry and Logging,Dollars (millions),H10,Indirect taxes,Financial performance,22,ANZSIC06 group A030
+2020,Level 4,AA211,Forestry and Logging,Dollars (millions),H11,Depreciation,Financial performance,229,ANZSIC06 group A030
+2020,Level 4,AA211,Forestry and Logging,Dollars (millions),H12,Salaries and wages paid,Financial performance,411,ANZSIC06 group A030
+2020,Level 4,AA211,Forestry and Logging,Dollars (millions),H13,Redundancy and severance,Financial performance,0,ANZSIC06 group A030
+2020,Level 4,AA211,Forestry and Logging,Dollars (millions),H19,Purchases and other operating expenses,Financial performance,"3,639",ANZSIC06 group A030
+2020,Level 4,AA211,Forestry and Logging,Dollars (millions),H20,Non-operating expenses,Financial performance,222,ANZSIC06 group A030
+2020,Level 4,AA211,Forestry and Logging,Dollars (millions),H21,Opening stocks,Financial performance,258,ANZSIC06 group A030
+2020,Level 4,AA211,Forestry and Logging,Dollars (millions),H22,Closing stocks,Financial performance,252,ANZSIC06 group A030
+2020,Level 4,AA211,Forestry and Logging,Dollars (millions),H23,Surplus before income tax,Financial performance,"1,640",ANZSIC06 group A030
+2020,Level 4,AA211,Forestry and Logging,Dollars (millions),H24,Total assets,Financial position,"25,424",ANZSIC06 group A030
+2020,Level 4,AA211,Forestry and Logging,Dollars (millions),H25,Current assets,Financial position,"1,887",ANZSIC06 group A030
+2020,Level 4,AA211,Forestry and Logging,Dollars (millions),H26,Fixed tangible assets,Financial position,"4,841",ANZSIC06 group A030
+2020,Level 4,AA211,Forestry and Logging,Dollars (millions),H29,Other assets,Financial position,"18,696",ANZSIC06 group A030
+2020,Level 4,AA211,Forestry and Logging,Dollars (millions),H30,Total equity and liabilities,Financial position,"25,424",ANZSIC06 group A030
+2020,Level 4,AA211,Forestry and Logging,Dollars (millions),H31,Shareholders funds or owners equity,Financial position,"16,118",ANZSIC06 group A030
+2020,Level 4,AA211,Forestry and Logging,Dollars (millions),H32,Current liabilities,Financial position,"2,729",ANZSIC06 group A030
+2020,Level 4,AA211,Forestry and Logging,Dollars (millions),H33,Other liabilities,Financial position,"6,577",ANZSIC06 group A030
+2020,Level 4,AA211,Forestry and Logging,Dollars,H34,Total income per employee count,Financial ratios,"12,60,400",ANZSIC06 group A030
+2020,Level 4,AA211,Forestry and Logging,Dollars,H35,Surplus per employee count,Financial ratios,"3,24,000",ANZSIC06 group A030
+2020,Level 4,AA211,Forestry and Logging,Percentage,H36,Current ratio,Financial ratios,69,ANZSIC06 group A030
+2020,Level 4,AA211,Forestry and Logging,Percentage,H37,Quick ratio,Financial ratios,60,ANZSIC06 group A030
+2020,Level 4,AA211,Forestry and Logging,Percentage,H39,Return on equity,Financial ratios,10,ANZSIC06 group A030
+2020,Level 4,AA211,Forestry and Logging,Percentage,H40,Return on total assets,Financial ratios,6,ANZSIC06 group A030
+2020,Level 4,AA211,Forestry and Logging,Percentage,H41,Liabilities structure,Financial ratios,63,ANZSIC06 group A030
+2020,Level 3,AA21,Forestry and Logging,Dollars (millions),H01,Total income,Financial performance,"6,379",ANZSIC06 group A030
+2020,Level 3,AA21,Forestry and Logging,Dollars (millions),H04,Sales of goods and services,Financial performance,"5,288",ANZSIC06 group A030
+2020,Level 3,AA21,Forestry and Logging,Dollars (millions),H05,"Interest, dividends and donations",Financial performance,40,ANZSIC06 group A030
+2020,Level 3,AA21,Forestry and Logging,Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,13,ANZSIC06 group A030
+2020,Level 3,AA21,Forestry and Logging,Dollars (millions),H07,Non-operating income,Financial performance,"1,038",ANZSIC06 group A030
+2020,Level 3,AA21,Forestry and Logging,Dollars (millions),H08,Total expenditure,Financial performance,"4,733",ANZSIC06 group A030
+2020,Level 3,AA21,Forestry and Logging,Dollars (millions),H09,Interest and donations,Financial performance,210,ANZSIC06 group A030
+2020,Level 3,AA21,Forestry and Logging,Dollars (millions),H10,Indirect taxes,Financial performance,22,ANZSIC06 group A030
+2020,Level 3,AA21,Forestry and Logging,Dollars (millions),H11,Depreciation,Financial performance,229,ANZSIC06 group A030
+2020,Level 3,AA21,Forestry and Logging,Dollars (millions),H12,Salaries and wages paid,Financial performance,411,ANZSIC06 group A030
+2020,Level 3,AA21,Forestry and Logging,Dollars (millions),H13,Redundancy and severance,Financial performance,0,ANZSIC06 group A030
+2020,Level 3,AA21,Forestry and Logging,Dollars (millions),H19,Purchases and other operating expenses,Financial performance,"3,639",ANZSIC06 group A030
+2020,Level 3,AA21,Forestry and Logging,Dollars (millions),H20,Non-operating expenses,Financial performance,222,ANZSIC06 group A030
+2020,Level 3,AA21,Forestry and Logging,Dollars (millions),H21,Opening stocks,Financial performance,258,ANZSIC06 group A030
+2020,Level 3,AA21,Forestry and Logging,Dollars (millions),H22,Closing stocks,Financial performance,252,ANZSIC06 group A030
+2020,Level 3,AA21,Forestry and Logging,Dollars (millions),H23,Surplus before income tax,Financial performance,"1,640",ANZSIC06 group A030
+2020,Level 3,AA21,Forestry and Logging,Dollars (millions),H24,Total assets,Financial position,"25,424",ANZSIC06 group A030
+2020,Level 3,AA21,Forestry and Logging,Dollars (millions),H25,Current assets,Financial position,"1,887",ANZSIC06 group A030
+2020,Level 3,AA21,Forestry and Logging,Dollars (millions),H26,Fixed tangible assets,Financial position,"4,841",ANZSIC06 group A030
+2020,Level 3,AA21,Forestry and Logging,Dollars (millions),H29,Other assets,Financial position,"18,696",ANZSIC06 group A030
+2020,Level 3,AA21,Forestry and Logging,Dollars (millions),H30,Total equity and liabilities,Financial position,"25,424",ANZSIC06 group A030
+2020,Level 3,AA21,Forestry and Logging,Dollars (millions),H31,Shareholders funds or owners equity,Financial position,"16,118",ANZSIC06 group A030
+2020,Level 3,AA21,Forestry and Logging,Dollars (millions),H32,Current liabilities,Financial position,"2,729",ANZSIC06 group A030
+2020,Level 3,AA21,Forestry and Logging,Dollars (millions),H33,Other liabilities,Financial position,"6,577",ANZSIC06 group A030
+2020,Level 3,AA21,Forestry and Logging,Dollars,H34,Total income per employee count,Financial ratios,"12,60,400",ANZSIC06 group A030
+2020,Level 3,AA21,Forestry and Logging,Dollars,H35,Surplus per employee count,Financial ratios,"3,24,000",ANZSIC06 group A030
+2020,Level 3,AA21,Forestry and Logging,Percentage,H36,Current ratio,Financial ratios,69,ANZSIC06 group A030
+2020,Level 3,AA21,Forestry and Logging,Percentage,H37,Quick ratio,Financial ratios,60,ANZSIC06 group A030
+2020,Level 3,AA21,Forestry and Logging,Percentage,H39,Return on equity,Financial ratios,10,ANZSIC06 group A030
+2020,Level 3,AA21,Forestry and Logging,Percentage,H40,Return on total assets,Financial ratios,6,ANZSIC06 group A030
+2020,Level 3,AA21,Forestry and Logging,Percentage,H41,Liabilities structure,Financial ratios,63,ANZSIC06 group A030
+2020,Level 3,AA31,Fishing and Aquaculture,Dollars (millions),H01,Total income,Financial performance,"1,505",ANZSIC06 groups A020 and A041
+2020,Level 3,AA31,Fishing and Aquaculture,Dollars (millions),H04,"Sales, government funding, grants and subsidies",Financial performance,"1,469",ANZSIC06 groups A020 and A041
+2020,Level 3,AA31,Fishing and Aquaculture,Dollars (millions),H05,"Interest, dividends and donations",Financial performance,16,ANZSIC06 groups A020 and A041
+2020,Level 3,AA31,Fishing and Aquaculture,Dollars (millions),H07,Non-operating income,Financial performance,19,ANZSIC06 groups A020 and A041
+2020,Level 3,AA31,Fishing and Aquaculture,Dollars (millions),H08,Total expenditure,Financial performance,"1,365",ANZSIC06 groups A020 and A041
+2020,Level 3,AA31,Fishing and Aquaculture,Dollars (millions),H09,Interest and donations,Financial performance,26,ANZSIC06 groups A020 and A041
+2020,Level 3,AA31,Fishing and Aquaculture,Dollars (millions),H10,Indirect taxes,Financial performance,22,ANZSIC06 groups A020 and A041
+2020,Level 3,AA31,Fishing and Aquaculture,Dollars (millions),H11,Depreciation,Financial performance,77,ANZSIC06 groups A020 and A041
+2020,Level 3,AA31,Fishing and Aquaculture,Dollars (millions),H12,Salaries and wages paid,Financial performance,241,ANZSIC06 groups A020 and A041
+2020,Level 3,AA31,Fishing and Aquaculture,Dollars (millions),H13,Redundancy and severance,Financial performance,0,ANZSIC06 groups A020 and A041
+2020,Level 3,AA31,Fishing and Aquaculture,Dollars (millions),H19,Purchases and other operating expenses,Financial performance,993,ANZSIC06 groups A020 and A041
+2020,Level 3,AA31,Fishing and Aquaculture,Dollars (millions),H20,Non-operating expenses,Financial performance,6,ANZSIC06 groups A020 and A041
+2020,Level 3,AA31,Fishing and Aquaculture,Dollars (millions),H21,Opening stocks,Financial performance,171,ANZSIC06 groups A020 and A041
+2020,Level 3,AA31,Fishing and Aquaculture,Dollars (millions),H22,Closing stocks,Financial performance,218,ANZSIC06 groups A020 and A041
+2020,Level 3,AA31,Fishing and Aquaculture,Dollars (millions),H23,Surplus before income tax,Financial performance,187,ANZSIC06 groups A020 and A041
+2020,Level 3,AA31,Fishing and Aquaculture,Dollars (millions),H24,Total assets,Financial position,"2,398",ANZSIC06 groups A020 and A041
+2020,Level 3,AA31,Fishing and Aquaculture,Dollars (millions),H25,Current assets,Financial position,703,ANZSIC06 groups A020 and A041
+2020,Level 3,AA31,Fishing and Aquaculture,Dollars (millions),H26,Fixed tangible assets,Financial position,574,ANZSIC06 groups A020 and A041
+2020,Level 3,AA31,Fishing and Aquaculture,Dollars (millions),H29,Other assets,Financial position,"1,121",ANZSIC06 groups A020 and A041
+2020,Level 3,AA31,Fishing and Aquaculture,Dollars (millions),H30,Total equity and liabilities,Financial position,"2,398",ANZSIC06 groups A020 and A041
+2020,Level 3,AA31,Fishing and Aquaculture,Dollars (millions),H31,Shareholders funds or owners equity,Financial position,"1,134",ANZSIC06 groups A020 and A041
+2020,Level 3,AA31,Fishing and Aquaculture,Dollars (millions),H32,Current liabilities,Financial position,523,ANZSIC06 groups A020 and A041
+2020,Level 3,AA31,Fishing and Aquaculture,Dollars (millions),H33,Other liabilities,Financial position,741,ANZSIC06 groups A020 and A041
+2020,Level 3,AA31,Fishing and Aquaculture,Dollars,H34,Total income per employee count,Financial ratios,"4,86,600",ANZSIC06 groups A020 and A041
+2020,Level 3,AA31,Fishing and Aquaculture,Dollars,H35,Surplus per employee count,Financial ratios,"60,400",ANZSIC06 groups A020 and A041
+2020,Level 3,AA31,Fishing and Aquaculture,Percentage,H36,Current ratio,Financial ratios,134,ANZSIC06 groups A020 and A041
+2020,Level 3,AA31,Fishing and Aquaculture,Percentage,H37,Quick ratio,Financial ratios,93,ANZSIC06 groups A020 and A041
+2020,Level 3,AA31,Fishing and Aquaculture,Percentage,H39,Return on equity,Financial ratios,16,ANZSIC06 groups A020 and A041
+2020,Level 3,AA31,Fishing and Aquaculture,Percentage,H40,Return on total assets,Financial ratios,8,ANZSIC06 groups A020 and A041
+2020,Level 3,AA31,Fishing and Aquaculture,Percentage,H41,Liabilities structure,Financial ratios,47,ANZSIC06 groups A020 and A041
+2020,Level 3,AA32,"Agriculture, Forestry and Fishing Support Services and Hunting",Dollars (millions),H01,Total income,Financial performance,"5,054","ANZSIC06 groups A042, A051, and A052"
+2020,Level 3,AA32,"Agriculture, Forestry and Fishing Support Services and Hunting",Dollars (millions),H04,Sales of goods and services,Financial performance,"4,954","ANZSIC06 groups A042, A051, and A052"
+2020,Level 3,AA32,"Agriculture, Forestry and Fishing Support Services and Hunting",Dollars (millions),H05,"Interest, dividends and donations",Financial performance,28,"ANZSIC06 groups A042, A051, and A052"
+2020,Level 3,AA32,"Agriculture, Forestry and Fishing Support Services and Hunting",Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,39,"ANZSIC06 groups A042, A051, and A052"
+2020,Level 3,AA32,"Agriculture, Forestry and Fishing Support Services and Hunting",Dollars (millions),H07,Non-operating income,Financial performance,34,"ANZSIC06 groups A042, A051, and A052"
+2020,Level 3,AA32,"Agriculture, Forestry and Fishing Support Services and Hunting",Dollars (millions),H08,Total expenditure,Financial performance,"4,599","ANZSIC06 groups A042, A051, and A052"
+2020,Level 3,AA32,"Agriculture, Forestry and Fishing Support Services and Hunting",Dollars (millions),H09,Interest and donations,Financial performance,124,"ANZSIC06 groups A042, A051, and A052"
+2020,Level 3,AA32,"Agriculture, Forestry and Fishing Support Services and Hunting",Dollars (millions),H10,Indirect taxes,Financial performance,19,"ANZSIC06 groups A042, A051, and A052"
+2020,Level 3,AA32,"Agriculture, Forestry and Fishing Support Services and Hunting",Dollars (millions),H11,Depreciation,Financial performance,309,"ANZSIC06 groups A042, A051, and A052"
+2020,Level 3,AA32,"Agriculture, Forestry and Fishing Support Services and Hunting",Dollars (millions),H12,Salaries and wages paid,Financial performance,"1,406","ANZSIC06 groups A042, A051, and A052"
+2020,Level 3,AA32,"Agriculture, Forestry and Fishing Support Services and Hunting",Dollars (millions),H13,Redundancy and severance,Financial performance,0,"ANZSIC06 groups A042, A051, and A052"
+2020,Level 3,AA32,"Agriculture, Forestry and Fishing Support Services and Hunting",Dollars (millions),H19,Purchases and other operating expenses,Financial performance,"2,714","ANZSIC06 groups A042, A051, and A052"
+2020,Level 3,AA32,"Agriculture, Forestry and Fishing Support Services and Hunting",Dollars (millions),H20,Non-operating expenses,Financial performance,27,"ANZSIC06 groups A042, A051, and A052"
+2020,Level 3,AA32,"Agriculture, Forestry and Fishing Support Services and Hunting",Dollars (millions),H21,Opening stocks,Financial performance,298,"ANZSIC06 groups A042, A051, and A052"
+2020,Level 3,AA32,"Agriculture, Forestry and Fishing Support Services and Hunting",Dollars (millions),H22,Closing stocks,Financial performance,304,"ANZSIC06 groups A042, A051, and A052"
+2020,Level 3,AA32,"Agriculture, Forestry and Fishing Support Services and Hunting",Dollars (millions),H23,Surplus before income tax,Financial performance,461,"ANZSIC06 groups A042, A051, and A052"
+2020,Level 3,AA32,"Agriculture, Forestry and Fishing Support Services and Hunting",Dollars (millions),H24,Total assets,Financial position,"6,850","ANZSIC06 groups A042, A051, and A052"
+2020,Level 3,AA32,"Agriculture, Forestry and Fishing Support Services and Hunting",Dollars (millions),H25,Current assets,Financial position,"1,756","ANZSIC06 groups A042, A051, and A052"
+2020,Level 3,AA32,"Agriculture, Forestry and Fishing Support Services and Hunting",Dollars (millions),H26,Fixed tangible assets,Financial position,"3,954","ANZSIC06 groups A042, A051, and A052"
+2020,Level 3,AA32,"Agriculture, Forestry and Fishing Support Services and Hunting",Dollars (millions),H29,Other assets,Financial position,"1,140","ANZSIC06 groups A042, A051, and A052"
+2020,Level 3,AA32,"Agriculture, Forestry and Fishing Support Services and Hunting",Dollars (millions),H30,Total equity and liabilities,Financial position,"6,850","ANZSIC06 groups A042, A051, and A052"
+2020,Level 3,AA32,"Agriculture, Forestry and Fishing Support Services and Hunting",Dollars (millions),H31,Shareholders funds or owners equity,Financial position,"2,722","ANZSIC06 groups A042, A051, and A052"
+2020,Level 3,AA32,"Agriculture, Forestry and Fishing Support Services and Hunting",Dollars (millions),H32,Current liabilities,Financial position,"2,006","ANZSIC06 groups A042, A051, and A052"
+2020,Level 3,AA32,"Agriculture, Forestry and Fishing Support Services and Hunting",Dollars (millions),H33,Other liabilities,Financial position,"2,121","ANZSIC06 groups A042, A051, and A052"
+2020,Level 3,AA32,"Agriculture, Forestry and Fishing Support Services and Hunting",Dollars,H34,Total income per employee count,Financial ratios,"1,81,200","ANZSIC06 groups A042, A051, and A052"
+2020,Level 3,AA32,"Agriculture, Forestry and Fishing Support Services and Hunting",Dollars,H35,Surplus per employee count,Financial ratios,"16,500","ANZSIC06 groups A042, A051, and A052"
+2020,Level 3,AA32,"Agriculture, Forestry and Fishing Support Services and Hunting",Percentage,H36,Current ratio,Financial ratios,88,"ANZSIC06 groups A042, A051, and A052"
+2020,Level 3,AA32,"Agriculture, Forestry and Fishing Support Services and Hunting",Percentage,H37,Quick ratio,Financial ratios,72,"ANZSIC06 groups A042, A051, and A052"
+2020,Level 3,AA32,"Agriculture, Forestry and Fishing Support Services and Hunting",Percentage,H39,Return on equity,Financial ratios,17,"ANZSIC06 groups A042, A051, and A052"
+2020,Level 3,AA32,"Agriculture, Forestry and Fishing Support Services and Hunting",Percentage,H40,Return on total assets,Financial ratios,7,"ANZSIC06 groups A042, A051, and A052"
+2020,Level 3,AA32,"Agriculture, Forestry and Fishing Support Services and Hunting",Percentage,H41,Liabilities structure,Financial ratios,40,"ANZSIC06 groups A042, A051, and A052"
+2020,Level 1,AA,"Agriculture, Forestry and Fishing",Dollars (millions),H01,Total income,Financial performance,"47,266",ANZSIC06 division A
+2020,Level 1,AA,"Agriculture, Forestry and Fishing",Dollars (millions),H04,Sales of goods and services,Financial performance,"44,408",ANZSIC06 division A
+2020,Level 1,AA,"Agriculture, Forestry and Fishing",Dollars (millions),H05,"Interest, dividends and donations",Financial performance,529,ANZSIC06 division A
+2020,Level 1,AA,"Agriculture, Forestry and Fishing",Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,111,ANZSIC06 division A
+2020,Level 1,AA,"Agriculture, Forestry and Fishing",Dollars (millions),H07,Non-operating income,Financial performance,"2,218",ANZSIC06 division A
+2020,Level 1,AA,"Agriculture, Forestry and Fishing",Dollars (millions),H08,Total expenditure,Financial performance,"39,965",ANZSIC06 division A
+2020,Level 1,AA,"Agriculture, Forestry and Fishing",Dollars (millions),H09,Interest and donations,Financial performance,"2,853",ANZSIC06 division A
+2020,Level 1,AA,"Agriculture, Forestry and Fishing",Dollars (millions),H10,Indirect taxes,Financial performance,493,ANZSIC06 division A
+2020,Level 1,AA,"Agriculture, Forestry and Fishing",Dollars (millions),H11,Depreciation,Financial performance,"2,270",ANZSIC06 division A
+2020,Level 1,AA,"Agriculture, Forestry and Fishing",Dollars (millions),H12,Salaries and wages paid,Financial performance,"5,913",ANZSIC06 division A
+2020,Level 1,AA,"Agriculture, Forestry and Fishing",Dollars (millions),H13,Redundancy and severance,Financial performance,0,ANZSIC06 division A
+2020,Level 1,AA,"Agriculture, Forestry and Fishing",Dollars (millions),H19,Purchases and other operating expenses,Financial performance,"28,003",ANZSIC06 division A
+2020,Level 1,AA,"Agriculture, Forestry and Fishing",Dollars (millions),H20,Non-operating expenses,Financial performance,433,ANZSIC06 division A
+2020,Level 1,AA,"Agriculture, Forestry and Fishing",Dollars (millions),H21,Opening stocks,Financial performance,"14,469",ANZSIC06 division A
+2020,Level 1,AA,"Agriculture, Forestry and Fishing",Dollars (millions),H22,Closing stocks,Financial performance,"14,267",ANZSIC06 division A
+2020,Level 1,AA,"Agriculture, Forestry and Fishing",Dollars (millions),H23,Surplus before income tax,Financial performance,"7,099",ANZSIC06 division A
+2020,Level 1,AA,"Agriculture, Forestry and Fishing",Dollars (millions),H24,Total assets,Financial position,"1,86,120",ANZSIC06 division A
+2020,Level 1,AA,"Agriculture, Forestry and Fishing",Dollars (millions),H25,Current assets,Financial position,"34,191",ANZSIC06 division A
+2020,Level 1,AA,"Agriculture, Forestry and Fishing",Dollars (millions),H26,Fixed tangible assets,Financial position,"1,07,169",ANZSIC06 division A
+2020,Level 1,AA,"Agriculture, Forestry and Fishing",Dollars (millions),H29,Other assets,Financial position,"44,760",ANZSIC06 division A
+2020,Level 1,AA,"Agriculture, Forestry and Fishing",Dollars (millions),H30,Total equity and liabilities,Financial position,"1,86,120",ANZSIC06 division A
+2020,Level 1,AA,"Agriculture, Forestry and Fishing",Dollars (millions),H31,Shareholders funds or owners equity,Financial position,"87,106",ANZSIC06 division A
+2020,Level 1,AA,"Agriculture, Forestry and Fishing",Dollars (millions),H32,Current liabilities,Financial position,"32,640",ANZSIC06 division A
+2020,Level 1,AA,"Agriculture, Forestry and Fishing",Dollars (millions),H33,Other liabilities,Financial position,"66,374",ANZSIC06 division A
+2020,Level 1,AA,"Agriculture, Forestry and Fishing",Dollars,H34,Total income per employee count,Financial ratios,"4,12,300",ANZSIC06 division A
+2020,Level 1,AA,"Agriculture, Forestry and Fishing",Dollars,H35,Surplus per employee count,Financial ratios,"61,900",ANZSIC06 division A
+2020,Level 1,AA,"Agriculture, Forestry and Fishing",Percentage,H36,Current ratio,Financial ratios,105,ANZSIC06 division A
+2020,Level 1,AA,"Agriculture, Forestry and Fishing",Percentage,H37,Quick ratio,Financial ratios,61,ANZSIC06 division A
+2020,Level 1,AA,"Agriculture, Forestry and Fishing",Percentage,H39,Return on equity,Financial ratios,8,ANZSIC06 division A
+2020,Level 1,AA,"Agriculture, Forestry and Fishing",Percentage,H40,Return on total assets,Financial ratios,4,ANZSIC06 division A
+2020,Level 1,AA,"Agriculture, Forestry and Fishing",Percentage,H41,Liabilities structure,Financial ratios,47,ANZSIC06 division A
+2020,Level 1,BB,Mining,Dollars (millions),H01,Total income,Financial performance,"5,669",ANZSIC06 division B
+2020,Level 1,BB,Mining,Dollars (millions),H04,Sales of goods and services,Financial performance,"5,141",ANZSIC06 division B
+2020,Level 1,BB,Mining,Dollars (millions),H05,"Interest, dividends and donations",Financial performance,C,ANZSIC06 division B
+2020,Level 1,BB,Mining,Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,12,ANZSIC06 division B
+2020,Level 1,BB,Mining,Dollars (millions),H07,Non-operating income,Financial performance,C,ANZSIC06 division B
+2020,Level 1,BB,Mining,Dollars (millions),H08,Total expenditure,Financial performance,"4,977",ANZSIC06 division B
+2020,Level 1,BB,Mining,Dollars (millions),H09,Interest and donations,Financial performance,187,ANZSIC06 division B
+2020,Level 1,BB,Mining,Dollars (millions),H10,Indirect taxes,Financial performance,43,ANZSIC06 division B
+2020,Level 1,BB,Mining,Dollars (millions),H11,Depreciation,Financial performance,"1,117",ANZSIC06 division B
+2020,Level 1,BB,Mining,Dollars (millions),H12,Salaries and wages paid,Financial performance,656,ANZSIC06 division B
+2020,Level 1,BB,Mining,Dollars (millions),H13,Redundancy and severance,Financial performance,1,ANZSIC06 division B
+2020,Level 1,BB,Mining,Dollars (millions),H19,Purchases and other operating expenses,Financial performance,"2,448",ANZSIC06 division B
+2020,Level 1,BB,Mining,Dollars (millions),H20,Non-operating expenses,Financial performance,526,ANZSIC06 division B
+2020,Level 1,BB,Mining,Dollars (millions),H21,Opening stocks,Financial performance,308,ANZSIC06 division B
+2020,Level 1,BB,Mining,Dollars (millions),H22,Closing stocks,Financial performance,310,ANZSIC06 division B
+2020,Level 1,BB,Mining,Dollars (millions),H23,Surplus before income tax,Financial performance,694,ANZSIC06 division B
+2020,Level 1,BB,Mining,Dollars (millions),H24,Total assets,Financial position,"17,740",ANZSIC06 division B
+2020,Level 1,BB,Mining,Dollars (millions),H25,Current assets,Financial position,"5,538",ANZSIC06 division B
+2020,Level 1,BB,Mining,Dollars (millions),H26,Fixed tangible assets,Financial position,"8,405",ANZSIC06 division B
+2020,Level 1,BB,Mining,Dollars (millions),H27,Additions to fixed assets,Financial position,"1,223",ANZSIC06 division B
+2020,Level 1,BB,Mining,Dollars (millions),H28,Disposals of fixed assets,Financial position,442,ANZSIC06 division B
+2020,Level 1,BB,Mining,Dollars (millions),H29,Other assets,Financial position,"3,797",ANZSIC06 division B
+2020,Level 1,BB,Mining,Dollars (millions),H30,Total equity and liabilities,Financial position,"17,740",ANZSIC06 division B
+2020,Level 1,BB,Mining,Dollars (millions),H31,Shareholders funds or owners equity,Financial position,"5,240",ANZSIC06 division B
+2020,Level 1,BB,Mining,Dollars (millions),H32,Current liabilities,Financial position,"5,580",ANZSIC06 division B
+2020,Level 1,BB,Mining,Dollars (millions),H33,Other liabilities,Financial position,"6,920",ANZSIC06 division B
+2020,Level 1,BB,Mining,Dollars,H34,Total income per employee count,Financial ratios,"10,20,800",ANZSIC06 division B
+2020,Level 1,BB,Mining,Dollars,H35,Surplus per employee count,Financial ratios,"1,25,000",ANZSIC06 division B
+2020,Level 1,BB,Mining,Percentage,H36,Current ratio,Financial ratios,99,ANZSIC06 division B
+2020,Level 1,BB,Mining,Percentage,H37,Quick ratio,Financial ratios,94,ANZSIC06 division B
+2020,Level 1,BB,Mining,Percentage,H39,Return on equity,Financial ratios,13,ANZSIC06 division B
+2020,Level 1,BB,Mining,Percentage,H40,Return on total assets,Financial ratios,4,ANZSIC06 division B
+2020,Level 1,BB,Mining,Percentage,H41,Liabilities structure,Financial ratios,30,ANZSIC06 division B
+2020,Level 4,CC151,Beverage and Tobacco Product Manufacturing,Dollars (millions),H01,Total income,Financial performance,"6,813",ANZSIC06 groups C121 and C122
+2020,Level 4,CC151,Beverage and Tobacco Product Manufacturing,Dollars (millions),H02,Sales of goods not further processed,Financial performance,375,ANZSIC06 groups C121 and C122
+2020,Level 4,CC151,Beverage and Tobacco Product Manufacturing,Dollars (millions),H03,Sales of other goods and services,Financial performance,"6,348",ANZSIC06 groups C121 and C122
+2020,Level 4,CC151,Beverage and Tobacco Product Manufacturing,Dollars (millions),H05,"Interest, dividends and donations",Financial performance,15,ANZSIC06 groups C121 and C122
+2020,Level 4,CC151,Beverage and Tobacco Product Manufacturing,Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,9,ANZSIC06 groups C121 and C122
+2020,Level 4,CC151,Beverage and Tobacco Product Manufacturing,Dollars (millions),H07,Non-operating income,Financial performance,66,ANZSIC06 groups C121 and C122
